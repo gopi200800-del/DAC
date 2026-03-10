@@ -1,4 +1,4 @@
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b35a7ad7-d862-4d67-a93e-7bc213fc2f50" /><img width="676" height="583" alt="image" src="https://github.com/user-attachments/assets/76df3a67-53d0-46b9-bc5a-cc4cfc13be67" /># DAC
+
  INTERFACING DAC WITH 8086 KIT AND GENERATING SAWTOOTH AND SQUARE WAVEFORMS
 
 ## AIM
